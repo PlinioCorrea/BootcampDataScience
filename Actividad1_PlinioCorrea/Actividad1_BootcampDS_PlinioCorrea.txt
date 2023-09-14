@@ -1,0 +1,36 @@
+*Actividad 1: Elección de potenciales archivos de trabajo.*
+
+Buen día, especialista David Bustos, en línea con lo requerido para esta actividad, le hago entrega de la siguiente información.
+__________________________________________________________________________________________________________
+**Descripción del Archivo de trabajo*
+
+Dataset: Credit Card customers
+Fuente: Kaggle | https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=dow
+Filas:  10.127
+Columnas: 23
+
+Descripción: este conjunto de datos posee información de 10.127 clientes que han adquirido tarjetas de crédito con la entidad bancaria. Detallando tanto variables sociodemograficas (edad, sexo, nivel de estudios, etc.) como de comportamiento (tipo de tarjeta, transacciones realizadas, estado del cliente, etc.)
+
+Variables: ID Cliente, Estado (activo, inactivo), edad, género, dependientes, nivel educativo, Estado civil, rango de ingresos, tipo de tarjeta, antigüedad como cliente, total de productos, tiempo de inactividad, contactos realizados, cupo limite de tarjeta, saldo rotatorio, saldo disponible, valor de transacciones, total de transacciones, índice de utilización. 
+
+___________________________________________________________________________________________________________
+*Objetivo*
+Mi objetivo con este conjunto de datos es realizar un análisis descriptivo y predictivo de estos, de tal forma que podamos obtener información de valor que le permita a la entidad bancaria optimizar tanto sus procesos comerciales como de mercadeo, respondiendo preguntas como, por ejemplo:
+
+1. A nivel general, como se distribuye el conjunto de datos y que Insights se pueden identificar:
+- ¿Qué segmentos de clientes tenemos?
+- ¿Qué patrones o tendencias se pueden observar?
+- ¿La mayoría de nuestros clientes son hombres o mujeres?
+- ¿Cuánto dinero está en flujo actualmente?
+- ¿Cuál es el perfil de clientes que más transacciones realiza?
+Etc.
+
+2. De forma puntual, responder preguntas clave como:
+- ¿Cuál es el perfil ideal de cliente para cada una de las tarjetas?
+- ¿Qué clientes están próximos a desertar y que perfil tienen?
+- ¿Qué clientes podrían adquirir otro tipo de tarjeta con la entidad?
+
+En general, me ubico en un escenario en donde el gerente de la entidad me dice: "Necesito entender mi base de clientes y obtener información que me ayude a enfocar los esfuerzos comerciales y de mercadeo ¿Qué información puede conseguir?"
+
+Por ende,  la idea sería poder entregar al "gerente" de la entidad un estudio detallado de su base de clientes, respondiendo preguntas como las anteriores y/o cualquier otra que pueda surgir en el camino.
+
