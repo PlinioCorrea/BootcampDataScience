@@ -1,2 +1,2 @@
 # BootcampDataScience
-Repositorio destinado para alojar todas las actividades desarrolladas en el Bootcamp
+Este repositorio está diseñado para almacenar todas las actividades realizadas durante el Bootcamp
